@@ -5,5 +5,9 @@ welcome to git
 pizza
 kheer
 
+peas
+beans
+carrot
+
 chicken fry
 thank you :)
